@@ -21,4 +21,8 @@ git push origin main --tags
 ## new tag
 
 git add .  
-git commit -m "second tag added"
+git commit -m "second tag added and corrected"
+git push
+git tag
+git tag v1.2.1
+git push origin main --tags
