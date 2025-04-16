@@ -17,3 +17,8 @@ go mod init github.com/hasanashik/dog
 git tag
 git tag v1.0.0
 git push origin main --tags
+
+## new tag
+
+git add .  
+git commit -m "second tag added"
