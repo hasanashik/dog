@@ -11,3 +11,9 @@ git push -u origin main
 ## Create go module named as git repo at the root of my dog package
 
 go mod init github.com/hasanashik/dog
+
+## Git tag adding
+
+git tag
+git tag v1.0.0
+git push origin main --tags
